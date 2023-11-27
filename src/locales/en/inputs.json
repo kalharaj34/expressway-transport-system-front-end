@@ -1,0 +1,27 @@
+{ 
+  "name": "Name",
+  "description": "Description",
+  "email": "Email",
+  "home": "Home",
+  "image": "Image",
+  "notes": "Notes",
+  "password": "Password",
+  "role": "Role",
+  "search": "Search",
+  "title": "Title",
+  "username": "Username",
+  "regNumber": "REG. Number",
+  "chassisNo": "Chassis No",
+  "engineNo": "Engine No",
+  "seatCount": "No of Seats",
+  "model": "Model",
+  "start_location": "Start Location",
+  "end_location": "End Location",
+  "distance": "Distance(KM)",
+  "start_time": "Start Time",
+  "end_time": "End Time",
+  "bus": "Bus",
+  "route": "Route"
+}
+
+

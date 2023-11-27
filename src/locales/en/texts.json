@@ -1,0 +1,5 @@
+{
+  "delete": "Delete",
+  "edit": "Edit",
+  "doYouWantToDeleteItem": "Do you want to delete {{item}}?"
+}

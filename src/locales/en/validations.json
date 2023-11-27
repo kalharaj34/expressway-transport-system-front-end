@@ -1,0 +1,8 @@
+{
+  "email": "* Invalid email",
+  "nic": "* Invalid nic number",
+  "pastDate": "* This should be a past date",
+  "phoneNumber": "* Invalid phone number",
+  "required": "* This field is required",
+  "username": "* Invalid username"
+}

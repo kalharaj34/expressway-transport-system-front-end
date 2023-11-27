@@ -1,0 +1,21 @@
+{
+  "systemName": "Expressway Transport System",
+  "areYouSure": "Are you sure?",
+  "createUser": "Create User",
+  "doYouWantToDeleteItem": "Do you want to delete {{item}}?",
+  "editUser": "Edit User",
+  "manageUsers": "Manage Users",
+  "createBus" : "Create Bus",
+  "editBus": "Edit Bus",
+  "manageBuses": "Manage Buses",
+  "manageRoutes": "Manage Routes",
+  "createRoute" : "Create Route",
+  "editRoute": "Edit Route",
+  "manageLocations": "Manage Locations",
+  "createLocation" : "Create Location",
+  "editLocation": "Edit Location",
+  "manageTrips": "Manage Trips",
+  "createTrip" : "Create Trip",
+  "editTrip": "Edit Trip",
+  "tripReport": "Trip Report"
+  }
