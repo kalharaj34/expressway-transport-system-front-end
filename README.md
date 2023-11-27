@@ -1,7 +1,5 @@
-# Expressway Transport System (frontend)
+# Expressway Transport System ( vue - frontend)
 Expressway Transport System
-
-# vue-project
 
 ## Project setup
 ```
